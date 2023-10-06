@@ -1,5 +1,7 @@
 # Low poly tree generator
 
+<img width="1276" alt="Screenshot 2023-10-07 at 00 50 39" src="https://github.com/alekszych/nTree/assets/31969098/cf1d2e3d-ee3e-430d-aab7-3df5c4693128">
+
 ## Dna of a tree
 
 ```
