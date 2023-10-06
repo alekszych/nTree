@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nTree/static/css/main.b0425fd7.css",
+    "main.js": "/nTree/static/js/main.688d0f93.js",
+    "index.html": "/nTree/index.html",
+    "main.b0425fd7.css.map": "/nTree/static/css/main.b0425fd7.css.map",
+    "main.688d0f93.js.map": "/nTree/static/js/main.688d0f93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0425fd7.css",
+    "static/js/main.688d0f93.js"
+  ]
+}
